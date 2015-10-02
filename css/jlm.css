@@ -1,0 +1,314 @@
+/* open sans 300, 400, 600, 700 */
+/* jlm red: color: #DC2028; */
+
+/* home page */
+
+/* navigation */
+
+.logo {
+	height: 80px;
+  display: block;
+  margin: 15px auto;
+}
+ 
+
+/* hero image */
+
+.hero-image {
+  height: 450px;
+  width: 100%;
+  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/jlmfinancial/master/img/skylight.png");
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.hero-wording {
+	margin-top: 35px;
+}
+
+.hero-title {
+  color: #FFFFFF;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.hero-text {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+#hero-button {
+  /*border: 2px solid #dc2028;*/
+  background-color: #dc2028;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+}
+
+/* about section */
+
+.about-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* portfolio section */
+/* link list */
+
+.portfolio-section {
+	background-color: #f8f8f8;
+}
+
+.portfolio-section-title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #0a0a0a;
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+.link-word {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #dc2028;
+  font-size: 17px;
+  padding-right: 3px;
+  display: inline-block;
+  margin: 15px auto;
+}
+
+#link-section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+a.link-list:hover {
+  color: #DC2028;
+}
+
+a:hover, a:focus {
+  color: #dc2028;
+  text-decoration: underline;
+}
+
+.dot {
+  padding: 5px;
+}
+
+/* portfolio section */
+/* content list from links in jlm affiliate section */
+
+/*.affiliate-title {
+  background-color: white;
+  color: #DC2028;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 20px;
+}*/
+
+.portfolio-wrapper {
+  margin-bottom: 30px;
+}
+
+#affiliate-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+
+.affiliate-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 15px;
+  color: #0a0a0a;
+}
+
+#affliate-section {
+  margin-bottom: 30px;
+}
+
+span {
+  font-weight: 600;
+} 
+
+.partnerslink {
+  font-weight: 600;
+  color: #0a0a0a;
+}
+
+.jet-picture {
+   margin-top: 30px;
+}
+
+
+.senior-picture {
+  width: 455px;
+  height: 307px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.one83photo {
+  width: 700px;
+  display: block;
+  margin: 15px auto;
+}
+
+.realestate {
+  display: block;
+  margin: 15px auto;
+}
+
+.plaza-pictures {
+  margin-top: 30px;
+}
+
+.pf-tombstones {
+  display: block;
+  margin: 15px auto;
+}
+
+/* footer */
+
+.footer-section {
+  background-color: #dc2028;
+}
+
+.text-right {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.footer-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.footer-text-left {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 8px;
+}
+
+.footer-text-r {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  display: block;
+  margin-top: 15px;
+  float: right;
+  clear: both;
+}
+
+a.footer-text-r {  /*need to change links for this to work */
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.left-footer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.right-footer {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+a.mailto {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+/* copyright */
+
+.copyright-text-left {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #0a0a0a;
+  margin: auto;
+}
+
+
+#copyright-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #0a0a0a;
+}
+
+#copyright-section {
+  margin-top: 12px;
+}
+
+
+/* acquisitions page */
+/* acquisition section */
+
+#acquisition-title {
+  margin-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.tombstone {
+  display: block;
+  margin: 15px auto;
+}
+
+
+/* team page */ 
+
+#team-title {
+  margin-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.name_title {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #dc2028;
+}
+
+.bio {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #0a0a0a;
+  line-height: 30px;
+}
+
+.email_icon {
+  padding-left: 5px;
+  height: 20px;
+}
+
+

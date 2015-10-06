@@ -232,6 +232,16 @@ span {
 .pflogo {
   display: block;
   margin: 10px auto;
+  height: 120px;
+}
+
+#pf-button {
+  background-color: #5c1c58;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin: 15px auto;
+  display: block;
 }
 
 /* footer */
@@ -281,6 +291,7 @@ a.mailto {
 .map {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 80%;
 }
 
 /* copyright */
@@ -378,5 +389,9 @@ a.mailto {
   height: 20px;
 }
 
+.trey-jlm {
+  color: #dc2028;
+  text-decoration: underline;
+}
 
 
